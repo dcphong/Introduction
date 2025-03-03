@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @dcphong
+- 👋 Hi, I’m Doan Chan Phong
+- I'm a backend developer
 - 👀 I’m interested in coding and learning new technologies
 - 🌱 I’m currently learning information technology at FPT Polytechnic K19.3
 - 💞️ I’m looking to collaborate on ...
